@@ -1,0 +1,55 @@
+h1 {
+    font: italic bold 1.2rem "Fira Sans", serif;
+    font-size: 70px;
+    color: black;
+    text-align: left;
+}
+section:nth-of-type(1) {
+    font: italic bold 1.2em "Fira Sans", sans-serif;
+    font-size: 40px;
+    color: rgba(137, 43, 226, 0.822);  
+    text-align: left;  
+    line-height: 1.5;
+}
+section:nth-of-type(2) {
+    font: italic small-caps 10px/2 cursive;
+    font-size: 30px;
+    color: red;  
+    text-align: left;   
+}
+p:nth-of-type(2) {
+    font: italic small-caps 10px/2 cursive;
+    font-size: 30px;
+    color: orangered;  
+    text-align: left; 
+    line-height: 0.2; 
+}
+p:nth-of-type(4) {
+    font: italic small-caps 10px/2 cursive;
+    font-size: 30px;
+    color: orange;  
+    text-align: left; 
+    line-height: 0.2; 
+}
+
+section:nth-of-type(3) {
+    font: italic small-caps bold 16px/2 cursive;
+    font-size: 40px;
+    color: green;  
+    text-align: left; 
+    line-height: 1.5;
+}
+section:nth-of-type(4) {
+    font: caption;
+    font-size: 30px;
+    color: mediumvioletred;  
+    text-align: left;
+    line-height: 0.2;
+     }
+    
+body{
+    background-image: url(./K.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 45% 140%;
+}
